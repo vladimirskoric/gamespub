@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.model.Client;
+import com.example.model.Greeting;
 import com.example.persistence.*;
 
 
